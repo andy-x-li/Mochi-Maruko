@@ -10,4 +10,5 @@ All files are coded in C# by me and some are inspired by tutorials online.
 
 All scripts are from my game's Unity project, where I then do a lot of visual scripting to attach these scripts to components and attach components to script variables. 
 
-https://youtu.be/v_s97_-UCgw
+https://user-images.githubusercontent.com/125074849/222238814-9cb5ecc4-1f15-4e83-9fc6-ee6a67a3101a.mov
+
